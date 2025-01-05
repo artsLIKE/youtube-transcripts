@@ -4,6 +4,13 @@ Biomolecules (Updated 2023) by Amoeba Sisters was published in 2023
 
 https://www.youtube.com/watch?v=1Dx7LDwINLU
 
+# Vocab
+- molecules 分子
+- Carbohydrates 碳水化合物
+- Lipids 脂質
+- Proteins 蛋白質
+- Nucleic Acids 核酸
+  
 ## Intro
 
 0:00:00 - 0:00:46
