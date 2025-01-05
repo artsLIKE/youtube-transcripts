@@ -4,12 +4,27 @@ Biomolecules (Updated 2023) by Amoeba Sisters was published in 2023
 
 https://www.youtube.com/watch?v=1Dx7LDwINLU
 
-# Vocab
-- molecules 分子
+# Vocabulary List
+- Molecules 分子
 - Carbohydrates 碳水化合物
 - Lipids 脂質
 - Proteins 蛋白質
 - Nucleic Acids 核酸
+- Monomers 單體
+- Glucose 葡萄糖
+- Steroids 類固醇
+- Glycerol 甘油
+- Fatty acids 脂肪酸
+- Hydrophobic 疏水性
+- Phospholipids 磷脂
+- Hormones 激素(荷爾蒙)
+- Amino acid 胺基酸
+- Collagen 膠原蛋白
+- Metabolic 代謝
+- Enzymes 酵素(酶)
+- Antibodies 抗體
+- Insulin 胰島素
+- Phosphorous 磷
   
 ## Intro
 
@@ -33,22 +48,22 @@ We’ll start with the biomolecule class of carbohydrates. Generally, food sourc
 
 0:02:45 - 0:04:24
 
-Next up: lipids. Lipids include fats and oils; examples of food sources could include butter or olive oil. This is a seriously diverse group. Meaning there are a lot of types of lipids. There are triglycerides. There are phospholipids. There are steroids. These are just some examples. Most – but not all - lipids have building blocks of glycerol and fatty acids. One thing though that lipids generally share? Generally, they’re hydrophobic or at least contain a significant hydrophobic component. That means- lipids or at least a major component of them- don’t like water. Lipids generally won’t dissolve in water. And that’s interesting as generally, the other biomolecules will. So how are lipids important to an organism and the structure and function of its cells? Remember how we said all cells – plant cells, animal cells, all cells- have membranes? Well thank you, phospholipids, for that phospholipid bilayer – because that’s right, lipids make up cell membrane structure. Lipids have a major function of being a source of long-term energy storage – you remember how we said carbohydrates were a fast source of energy but when those carbs are used up, lipids have a function as long-term energy storage that an organism can use. Lipids also are very important for different types of insulation. The insulation may involve helping a cell carry an electrical impulse: for example, this myelin sheath made of lipids that can be found on many neurons. Or the insulation may involve temperature regulation so thermal insulation: for example, the blubber on this adult harp seal is made of lipids, helping it conserve heat. Another cool function about lipids: many lipids act as hormones which are chemical messengers for many different processes.
+Next up: lipids. Lipids include fats and oils; examples of food sources could include butter or olive oil. This is a seriously diverse group. Meaning there are a lot of types of lipids. There are triglycerides. There are phospholipids. There are steroids. These are just some examples. Most – but not all - lipids have building blocks of glycerol and fatty acids. One thing though that lipids generally share? Generally, they’re hydrophobic 疏水性 or at least contain a significant hydrophobic component. That means- lipids or at least a major component of them- don’t like water. Lipids generally won’t dissolve in water. And that’s interesting as generally, the other biomolecules will. So how are lipids important to an organism and the structure and function of its cells? Remember how we said all cells – plant cells, animal cells, all cells- have membranes? Well thank you, phospholipids 磷脂, for that phospholipid bilayer – because that’s right, lipids make up cell membrane structure. Lipids have a major function of being a source of long-term energy storage – you remember how we said carbohydrates were a fast source of energy but when those carbs are used up, lipids have a function as long-term energy storage that an organism can use. Lipids also are very important for different types of insulation. The insulation may involve helping a cell carry an electrical impulse: for example, this myelin sheath made of lipids that can be found on many neurons. Or the insulation may involve temperature regulation so thermal insulation: for example, the blubber on this adult harp seal is made of lipids, helping it conserve heat. Another cool function about lipids: many lipids act as hormones 激素 which are chemical messengers for many different processes.
 
 ## Proteins
 
 0:04:24 - 0:05:37
 
-Next: proteins! Protein food sources include beans, meat, nuts, and eggs. The monomer of a protein is an amino acid. Usually, proteins consist of many amino acids bonded together. There are different types of amino acids. So how are proteins important to an organism and the structure and function of its cells? Structure wise, tissue like muscle tissue, consists heavily of proteins. Proteins can make up all kinds of other structures – hair or collagen - for example. Proteins can also be found embedded in cell membranes as protein channels and channels are important to that cell membrane structure with functions of letting certain substances pass through. Proteins can also be receptors which are critical in cell signaling so cells can coordinate actions together. Most enzymes are made of proteins. Remember enzymes can build up or break down substances in all kinds of metabolic processes. Antibodies – which are made by immune cells in your body - are proteins and they are involved in protecting your body. And some critical hormones such as insulin are proteins. And when we start talking about genes – genes are made of DNA – but many genes do code for proteins.
+Next: proteins! Protein food sources include beans, meat, nuts, and eggs. The monomer of a protein is an amino acid 胺基酸. Usually, proteins consist of many amino acids bonded together. There are different types of amino acids. So how are proteins important to an organism and the structure and function of its cells? Structure wise, tissue like muscle tissue, consists heavily of proteins. Proteins can make up all kinds of other structures – hair or collagen 膠原蛋白 - for example. Proteins can also be found embedded in cell membranes as protein channels and channels are important to that cell membrane structure with functions of letting certain substances pass through. Proteins can also be receptors which are critical in cell signaling so cells can coordinate actions together. Most enzymes 酵素(酶) are made of proteins. Remember enzymes  can build up or break down substances in all kinds of metabolic 代謝 processes. Antibodies 抗體– which are made by immune cells in your body - are proteins and they are involved in protecting your body. And some critical hormones such as insulin 胰島素 are proteins. And when we start talking about genes – genes are made of DNA – but many genes do code for proteins.
 
 ## Nucleic Acids
 
 0:05:37 - 0:06:38
 
-And that brings us to our last one that includes DNA: nucleic acids. Nucleic acids include DNA and RNA, which we'll get to in more depth when we get to genetics. Nucleic acids have a monomer called a nucleotide. That's going to be an easy one for you to remember because nucleotide sounds like nucleic acid. By the way, you might wonder: are nucleic acids like DNA and RNA found in my food? And the answer would be yes! Whenever you eat something that came from something living, it actually could still have DNA inside it. For example, when you eat a strawberry, you're actually crunching all the cells that made up that strawberry. In the nucleus of all of those strawberry cells is DNA. Any type of life -like plants or animals or fungi or bacteria- they must contain nucleic acids like DNA to direct the cells' activities. How are nucleic acids important for your cells? Well, most of your cells contain all of your genetic information in the form of nucleic acids -DNA and RNA- and this is needed for the coding of your traits. Traits involved in structure and various functions.
+And that brings us to our last one that includes DNA: nucleic acids. Nucleic acids include DNA and RNA, which we'll get to in more depth when we get to genetics 遺傳學. Nucleic acids have a monomer called a nucleotide. That's going to be an easy one for you to remember because nucleotide sounds like nucleic acid. By the way, you might wonder: are nucleic acids like DNA and RNA found in my food? And the answer would be yes! Whenever you eat something that came from something living, it actually could still have DNA inside it. For example, when you eat a strawberry, you're actually crunching all the cells that made up that strawberry. In the nucleus of all of those strawberry cells is DNA. Any type of life -like plants or animals or fungi or bacteria- they must contain nucleic acids like DNA to direct the cells' activities. How are nucleic acids important for your cells? Well, most of your cells contain all of your genetic information in the form of nucleic acids -DNA and RNA- and this is needed for the coding of your traits. Traits involved in structure and various functions.
 
 ## Biomolecule Structure
 
 0:06:38 - 0:07:49
 
-Ok so we just did a very general tour of 4 biomolecules. Before we go, I just have to marvel at biomolecule structure. Because it’s absolutely beautiful. So if I arrange them in the order we did: carbs, lipids, proteins, and nucleic acids: how might we remember the major and most common elements in them? There’s a popular mnemonic known as CHO, CHO, CHON, CHONP – although it’s “chomp” with an “n” - to help remember the C – carbon, H-hydrogen, O-oxygen, N-nitrogen, and P-phosphorous. Does that mean you won’t find other elements in the biomolecules? Of course not! But it’s important to understand the arrangement of these elements in biomolecules, because the structure of the arrangement greatly impacts their function. You can learn more in our further reading suggestions in the description. Well, that’s it for the Amoeba Sisters, and we remind you to stay curious.
+Ok so we just did a very general tour of 4 biomolecules. Before we go, I just have to marvel at biomolecule structure. Because it’s absolutely beautiful. So if I arrange them in the order we did: carbs, lipids, proteins, and nucleic acids: how might we remember the major and most common elements in them? There’s a popular mnemonic known as CHO, CHO, CHON, CHONP – although it’s “chomp” with an “n” - to help remember the C – carbon, H-hydrogen, O-oxygen, N-nitrogen, and P-phosphorous 磷. Does that mean you won’t find other elements in the biomolecules? Of course not! But it’s important to understand the arrangement of these elements in biomolecules, because the structure of the arrangement greatly impacts their function. You can learn more in our further reading suggestions in the description. Well, that’s it for the Amoeba Sisters, and we remind you to stay curious.
